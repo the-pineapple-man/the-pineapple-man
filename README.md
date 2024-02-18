@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the-pineapple-man
 - 👀 I’m interested in your mum
 - 🌱 I’m currently learning python
-- 📫 How to reach me you don't
+- 📫 How to reach me: you don't
 - 😄 Pronouns: pineapple/man
 - ⚡ Fun fact: I'm you dad
 
